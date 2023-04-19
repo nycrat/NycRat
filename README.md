@@ -7,8 +7,6 @@
 
 <a href="https://nycrat.github.io/photo-gallery">Photography Site</a>
 
-<a href="https://nycrat.github.io/">Personal Site</a>
-
 <a href="https://github.com/NycRat/dotfiles">Dotfiles</a>
 
 </div>
