@@ -5,7 +5,9 @@
 
 <div align="center">
 
-<a href="https://nycrat.github.io/">personal site</a>
+<a href="https://nycrat.vercel.app/">personal site (WIP)</a>
+
+<a href="https://nycrat.github.io/">developer portfolio</a>
 
 <a href="https://nycrat.github.io/photo-gallery">photography site</a>
 
